@@ -7,3 +7,5 @@
 </p>
 
 </a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasservanshalash)](https://github.com/yasservanshalash/github-readme-stats)
