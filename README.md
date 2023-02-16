@@ -12,14 +12,3 @@
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasservanshalash&show_icons=true&bg_color=00000000&title_color=70d4d4&icon_color=70d4d4&hide_border=true)](https://github.com/yasservanshalash/github-readme-stats)
 
-
-<section data-markdown>
-  <textarea data-template>
-    # Testing 
-    <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
-      <div>Item 1</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-      <div>Item 2</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-      <div>Item 3</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-    </div>
-  </textarea>
-</section>
