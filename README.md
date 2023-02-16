@@ -8,4 +8,4 @@
 
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasservanshalash&show_icons=true&bg_color=70d4d433&title_color=7034d433)](https://github.com/yasservanshalash/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasservanshalash&show_icons=true&bg_color=70d4d433&title_color=7034d4)](https://github.com/yasservanshalash/github-readme-stats)
