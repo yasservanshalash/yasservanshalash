@@ -8,4 +8,4 @@
 
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasservanshalash)](https://github.com/yasservanshalash/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasservanshalash&show_icons=true&theme=react)](https://github.com/yasservanshalash/github-readme-stats)
