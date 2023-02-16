@@ -8,4 +8,5 @@
 
 </a>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6ED4D4&width=435&lines=Friendly+neighborhood+fullstack+dev;Down+for+drinks+and+Mario+Kart;Neded+more+Caffiene)](https://git.io/typing-svg) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasservanshalash&show_icons=true&bg_color=00000000&title_color=70d4d4&icon_color=70d4d4&hide_border=true)](https://github.com/yasservanshalash/github-readme-stats)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6ED4D4&width=435&lines=Friendly+neighborhood+fullstack+dev;Down+for+drinks+and+Mario+Kart;Neded+more+Caffiene)](https://git.io/typing-svg) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasservanshalash&show_icons=true&bg_color=00000000&title_color=70d4d4&icon_color=70d4d4&hide_border=true)](https://github.com/yasservanshalash/github-readme-stats)
