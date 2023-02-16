@@ -9,3 +9,6 @@
 </a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasservanshalash&show_icons=true&bg_color=00000000&title_color=70d4d4&icon_color=70d4d4&hide_border=true)](https://github.com/yasservanshalash/github-readme-stats) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
