@@ -1,6 +1,8 @@
 <a href="https://yasservanshalash.github.io">
 <p align="center">
-<a target="_blank" href="https://imageupload.io/9xjqUFB1AHucNAb"><img  src="https://imageupload.io/ib/1GkhV42RNu2JBG7_1698601454.png" alt="laptop-wave.png"/></a></p>
+<img  src="https://imageupload.io/ib/1GkhV42RNu2JBG7_1698601454.png" alt="laptop-wave.png" width="300"/>
+</a>
+</p>
 <hr>
 <p align="center">
 <img src="https://i.ibb.co/4gjrj8M/Screenshot-2023-02-16-at-00-34-54.png" width="600"/>
